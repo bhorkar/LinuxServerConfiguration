@@ -32,6 +32,7 @@ The Linux Server is configured on azure. A database server is installed and conf
 
 
 ## Web App Deployed
+http://sportscatalog.eastus.cloudapp.azure.com
 
 Udacity Item Catalog Project https://github.com/bhorkar/udacity_item_catalog is deployed. It manages sports item catalog.
 
