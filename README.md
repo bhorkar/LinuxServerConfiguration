@@ -37,7 +37,8 @@ http://sportscatalog.eastus.cloudapp.azure.com
 Udacity Item Catalog Project https://github.com/bhorkar/udacity_item_catalog is deployed. It manages sports item catalog.
 
 ## Resources
-Changing ssh port on azure: https://stackoverflow.com/questions/35780769/changing-ssh-port-22-to-a-custom-port-in-azure-resource-group-vm
-Using nginx web server: https://www.patricksoftwareblog.com/how-to-configure-nginx-for-a-flask-web-application/
+1.Changing ssh port on azure: https://stackoverflow.com/questions/35780769/changing-ssh-port-22-to-a-custom-port-in-azure-resource-group-vm
+
+2.Using nginx web server: https://www.patricksoftwareblog.com/how-to-configure-nginx-for-a-flask-web-application/
 
 
